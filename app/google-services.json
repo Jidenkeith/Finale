@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92426667772",
+    "project_id": "authen-c",
+    "storage_bucket": "authen-c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92426667772:android:5ad94efdbb1337d5577979",
+        "android_client_info": {
+          "package_name": "net.simplifiedcoding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92426667772-ejv2l80stnuat0j9dpg1uqve3rrmmaf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRAZ6oQoeiVcAUxE1h7QBPwAcJIMvKnLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92426667772-ejv2l80stnuat0j9dpg1uqve3rrmmaf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
